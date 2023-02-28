@@ -1,10 +1,3 @@
-/**
-* Template Name: FlexStart - v1.10.1
-* Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -570,22 +563,6 @@ section {
   display: inline-block;
 }
 
-.landot {
-  height: 12px;
-  width: 12px;
-  background-color: #4898e3;
-  border-radius: 50%;
-  display: inline-block;
-}
-
-.landot2 {
-  height: 12px;
-  width: 12px;
-  background-color: #777777;
-  border-radius: 50%;
-  display: inline-block;
-}
-
 .resume .resume-content .skills-list span {
   font-size: 40px;
   display: inline-block;
@@ -834,6 +811,10 @@ section {
 
 .portfolio-details .portfolio-info ul li+li {
   margin-top: 10px;
+}
+
+.portfolio-details .portfolio-info span {
+  font-size: 25px;
 }
 
 .portfolio-details .portfolio-description {
