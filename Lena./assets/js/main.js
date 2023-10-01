@@ -247,7 +247,7 @@
   
   let dataTyping = {
   target: "typing-text",
-  text: '["UI/UX", "web development", "data science"]',
+  text: '["machine learning", "software development", "data science"]',
   delay: "1000",
 };
 
